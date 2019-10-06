@@ -1,7 +1,7 @@
 # MTG-Card-Tracker
 ### Improving Card Tracker:
 Ways to improve Card Tracker:
-1. DONE ~~If collection already contains card name, don't need to retype description and stuff~~
+1. ~~If collection already contains card name, don't need to retype description and stuff~~
 1. If collection already contains card name, but different expansion, make new card
 2. Store collection into a text file
 3. Add multiple cards at once
